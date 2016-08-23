@@ -41,3 +41,6 @@ dist
 # Generated files
 src/lib
 *.pyc
+
+# emacs
+*~
